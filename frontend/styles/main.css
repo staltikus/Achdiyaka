@@ -1,0 +1,124 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar-brand img {
+  max-height: 71px;
+}
+
+body {
+  background-color: coral;
+}
+
+.navbar-light {
+  background-color: #f4a261 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #000000 !important;
+}
+
+header {
+  padding: 262px 0px 262px;
+  margin-top: -100px;
+  background-image: url("../images/ECLovers.jpeg");
+  background-size: cover;
+}
+
+header h1 {
+  color: #ffff;
+}
+
+header h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+main section {
+  background-color: #fff1e6;
+}
+
+main section h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  color: #000000;
+}
+
+main section p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+
+main section img {
+  width: 100%;
+}
+
+main .container {
+  padding-top: 25px;
+}
+
+.section-3-heading {
+  background-color: #ffff;
+  padding-top: 20px;
+  min-height: 100px;
+}
+
+.section-3-heading h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  color: #ffff;
+}
+
+.section-3-content {
+  background-color: #ffff;
+  margin-top: 0px;
+  padding-bottom: 50px;
+}
+
+.section-3-content .Program-Kerja {
+  padding: 40px 20px 10px;
+  border-radius: 20px;
+  border-width: 3px;
+  border-color: #000000;
+  margin-bottom: 20px;
+}
+
+.section-3-content .Program-Kerja .program-kerja-content {
+  min-height: 380px;
+}
+
+.section-3-content .Program-Kerja img {
+  max-width: 240px;
+}
+
+.section-3-content .Program-Kerja h3 {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+  color: #ffff;
+}
+
+.section-3-content .Program-Kerja .definisi {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: #eddcd2;
+}
+
+footer .container-fluid {
+  background-color: #192a56;
+}
+
+footer .pembuat {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #ffff;
+}
+/*# sourceMappingURL=main.css.map */
